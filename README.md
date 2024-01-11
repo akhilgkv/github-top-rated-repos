@@ -75,6 +75,6 @@ _Given more time, I would_:
 
 **Improve UI/UX**: Focus on improving the overall design and user interface for a more polished look and feel.
 
-** Error Handling**: enhance error handling to provide meaningful error messages and guide users when something goes wrong, such as failed API requests.
+**Error Handling**: enhance error handling to provide meaningful error messages and guide users when something goes wrong, such as failed API requests.
 
 **Optimize Performance**: Optimize performance for final build, handling large datasets and add infinite scrolling pagination.
