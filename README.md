@@ -14,7 +14,7 @@ Ensure that you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/repository-project.git
+   git clone https://github.com/akhilgkv/github-top-rated-repos.git
 
    ```
 
