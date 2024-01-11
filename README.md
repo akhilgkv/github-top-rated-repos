@@ -1,6 +1,4 @@
-# Repository Project
-
-This repository contains a flexible and extensible solution for a coding problem. The tools, techniques, response formats, and languages used to solve the problem are intentionally left open-ended to allow for flexibility.
+# Github Top Rated Repos Project
 
 ### Prerequisites
 
@@ -21,7 +19,7 @@ Ensure that you have the following installed on your system:
 2. Navigate to the project directory:
 
    ```bash
-   cd repository-project
+   cd github-profiles
 
    ```
 
